@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-counter/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-counter/static/js/main.f799922b.chunk.js",
+    "main.js.map": "/react-counter/static/js/main.f799922b.chunk.js.map",
+    "runtime~main.js": "/react-counter/static/js/runtime~main.35208266.js",
+    "runtime~main.js.map": "/react-counter/static/js/runtime~main.35208266.js.map",
+    "static/css/2.57797527.chunk.css": "/react-counter/static/css/2.57797527.chunk.css",
+    "static/js/2.e315b217.chunk.js": "/react-counter/static/js/2.e315b217.chunk.js",
+    "static/js/2.e315b217.chunk.js.map": "/react-counter/static/js/2.e315b217.chunk.js.map",
+    "index.html": "/react-counter/index.html",
+    "precache-manifest.98a2875ac43ce8343a7a851780e300a9.js": "/react-counter/precache-manifest.98a2875ac43ce8343a7a851780e300a9.js",
+    "service-worker.js": "/react-counter/service-worker.js",
+    "static/css/2.57797527.chunk.css.map": "/react-counter/static/css/2.57797527.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react-counter/static/css/main.34de6062.chunk.css.map"
+  }
+}
